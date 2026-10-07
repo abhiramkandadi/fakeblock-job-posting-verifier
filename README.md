@@ -6,6 +6,8 @@ NYU. Track B: trust going out — impersonation and candidate scams.
 
 **Award: Best Pitch** (category award, not a placement).
 
+**Demo video:** https://youtu.be/-O5mWXlSM4k
+
 > This README covers the `job-posting-verifier/` component only — the half of the repo built by
 > Abhiram. The repo's other component, `email-scanner/` (an Outlook add-in that scans received
 > recruiting emails for scam signals), was built by teammate Shrikar Swami and isn't described
